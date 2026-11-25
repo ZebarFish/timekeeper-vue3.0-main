@@ -1,0 +1,11 @@
+{
+	"main": "index.html",
+	"logo": "Timer.png",
+	"features": [
+		{
+		  "code": "timer",
+		  "explain": "time keeper",
+			"cmds":["工时","gs","timer","tt","tk"]
+		}
+	]
+}
